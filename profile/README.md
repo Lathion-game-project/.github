@@ -18,3 +18,11 @@
 - Lutica CANARD
 - DY-76
 - ...
+
+
+# We're finding devrlopers!
+- 저희 라시온팀은 아래 영역중 하나이상을 담당해주실 개발자분을 찾고있습니다!
+1. 적군 인공지능 영역
+2. Asp.net 설정영역
+
+- 혹시 관심이 있으시다면 **Lutica_canard** (presan100@gmail.com)로 연락주시면 답변드리겠습니다!
