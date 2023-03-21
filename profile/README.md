@@ -20,7 +20,7 @@
 - ...
 
 
-# We're finding devrlopers!
+# We're finding devlopers!
 - 저희 라시온팀은 아래 영역중 하나이상을 담당해주실 개발자분을 찾고있습니다!
 1. 적군 인공지능 영역
 2. Asp.net 설정영역
